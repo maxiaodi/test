@@ -13,6 +13,7 @@
 #include "TurnLeftCommand.h"
 #include "TurnRightCommand.h"
 #include "TurnRoundCommand.h"
+
 using namespace std;
 
 const char dir[4] = { 'N','E','S','W' };
